@@ -77,7 +77,7 @@ const Contact = () => {
       icon: Linkedin,
       label: 'LinkedIn',
       value: 'hemanth-madhav-rajulapati',
-      href: 'https://linkedin.com/in/hemanth-madhav-rajulapati',
+      href: 'https://www.linkedin.com/in/hemanth-madhav-rajulapati-50b69a366',
       color: 'from-blue-600 to-blue-700'
     },
     {
